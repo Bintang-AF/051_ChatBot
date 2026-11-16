@@ -1,5 +1,5 @@
-# Halaman Chatbot AI
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/20486033-6476-4da6-bc91-e2533cabdcfc" />
+#HALAMAN CHATBOT AI
+<img width="1887" height="1061" alt="Screenshot 2026-11-16 150307" src="https://github.com/user-attachments/assets/d40c198f-02ac-41ab-a444-a94707903c21" />
 
-# Dasbor Vercel
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/464486a6-8fac-4cb7-a57e-9275ceb06ad4" />
+#VERCEL
+<img width="1862" height="925" alt="Screenshot 2026-11-16 150322" src="https://github.com/user-attachments/assets/5209370f-af54-43b8-a4fa-e0c8642096ca" />
